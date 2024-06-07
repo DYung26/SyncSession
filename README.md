@@ -12,11 +12,11 @@ Welcome to SyncSession, a powerful Chrome extension designed to enhance online c
 Coming soon...
 ## Manual Installation
 1.	Download the Extension Package
-•	Download the ZIP file from here.
-2.	Enable Developer Mode in Chrome
-•	Go to chrome://extensions/.
-•	Enable "Developer mode" by toggling the switch in the top right corner.
-3.	Load the Extension
+   •	Download the ZIP file from here.
+3.	Enable Developer Mode in Chrome
+   •	Go to chrome://extensions/.
+  	Enable "Developer mode" by toggling the switch in the top right corner.
+5.	Load the Extension
 •	Click on "Load unpacked" and select the directory where the extension files are located.
 •	The extension will be installed and activated immediately.
 Technical Details
