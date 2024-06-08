@@ -25,7 +25,7 @@ Coming soon...(Stay tuned!)
 	- Click on "Load unpacked" and select the directory where the extension files are located.
 	- The extension will be installed and activated immediately.
 ## Demo and Screenshots
-## Manual Installation of SyncSession
+### Manual Installation of SyncSession
 Check out this demo video for manual installation:
 <div align="center">
   <a href="https://www.youtube.com/watch?v=0dHltlL0zK8">
@@ -33,7 +33,7 @@ Check out this demo video for manual installation:
   </a>
 </div>
 
-## Session Transfer on SyncSession
+### Session Transfer on SyncSession
 Check out this demo video on how SyncSession transfers a `https://app.imperial.learnchameleon.com/menu` session from one browser to another:
 <div align="center">
   <a href="https://1drv.ms/v/s!Ag9jtTl2cMLljBxf5VCmd2otrQvy">
@@ -43,7 +43,7 @@ Check out this demo video on how SyncSession transfers a `https://app.imperial.l
 
 SyncSession seamlessly transfers sessions from one browser to another. It also works well for cross-device synchronization, as SyncSession's WebSocket server will be hosted on [Chameleon](https://app.imperial.learnchameleon.com).
 
-## Text Sync on SyncSession
+### Text Sync on SyncSession
 **Browser1 (Host):** Starts a session and begins broadcasting text updates.
 
 **Browser2 (Member):** Connects to the session, sends and receives real-time text updates from other members.
