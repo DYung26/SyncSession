@@ -31,7 +31,7 @@ Architecture
 ## Manual Installation of SyncSession
 <div align="center">
   <video width="500" controls>
-    <source src="./manualInstallationofSyncSession.mp4" type="video/mp4">
+    <source src="/SyncSession/manualInstallationofSyncSession.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
