@@ -13,9 +13,9 @@ Welcome to SyncSession, a powerful Chrome extension designed to enhance online c
 - Member Connection: Members retrieve session data and synchronize with the host.
 - Real-time Chat(Text broadcast): Text messages are broadcast across all sessions instantly.
 ## Installation Instructions
-## From Chrome Web Store
+### From Chrome Web Store
 Coming soon...(Stay tuned!)
-## Manual Installation
+### Manual Installation
 1.	Download the Extension Package
    - Download the ZIP file from [here](https://github.com/DYung26/SyncSession/raw/main/SyncSession.zip).
 3.	Enable Developer Mode in Chrome
