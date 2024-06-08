@@ -29,6 +29,12 @@ Architecture
 - Member Connection: Members retrieve session data and synchronize with the host.
 - Real-time Chat(Text broadcast): Text messages are broadcast across all sessions instantly.
 ## Manual Installation of SyncSession
+
+Check out this demo video for manual installation:
+
 <div align="center">
-  <a href="https://1drv.ms/v/s!Ag9jtTl2cMLljBtrmUUr_fK2u6XL"></a>
+  <a href="https://1drv.ms/v/s!Ag9jtTl2cMLljBtrmUUr_fK2u6XL">
+    <img src="https://via.placeholder.com/500x300.png?text=Watch+Video" alt="Watch the video" width="500"/>
+  </a>
 </div>
+
