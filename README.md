@@ -40,6 +40,7 @@ Check out this demo video on how SyncSession transfers a `https://app.imperial.l
     <img src="https://img.youtube.com/vi/ibw97d61PZ4/0.jpg" alt="Session Transfer" width="500"/>
   </a>
 </div>
+
 SyncSession seamlessly transfers sessions from one browser to another. It also works well for cross-device synchronization, as SyncSession's WebSocket server will be hosted on [Chameleon](https://app.imperial.learnchameleon.com).
 
 ## Text Sync on SyncSession
