@@ -33,8 +33,8 @@ Architecture
 Check out this demo video for manual installation:
 
 <div align="center">
-  <a href="https://1drv.ms/v/s!Ag9jtTl2cMLljBtrmUUr_fK2u6XL">
-    <img src="https://via.placeholder.com/500x300.png?text=Watch+Video" alt="Watch the video" width="500"/>
+  <a href="https://www.youtube.com/watch?v=0dHltlL0zK8">
+    <img src="https://img.youtube.com/vi/0dHltlL0zK8/0.jpg" alt="Watch the video" width="500"/>
   </a>
 </div>
 
