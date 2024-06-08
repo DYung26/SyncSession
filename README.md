@@ -28,3 +28,10 @@ Architecture
 - WebSocket Server: Facilitates real-time data broadcasting.
 - Member Connection: Members retrieve session data and synchronize with the host.
 - Real-time Chat(Text broadcast): Text messages are broadcast across all sessions instantly.
+## Manual Installation of SyncSession
+<div align="center">
+  <video width="500" controls>
+    <source src="./manualInstallationofSyncSession.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
