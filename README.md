@@ -1,6 +1,7 @@
 # SyncSession
 ## Project Overview
 Welcome to SyncSession, a powerful Chrome extension designed to enhance online collaboration by synchronizing web sessions in real-time. This extension allows users to extract session data from a host's webpage, broadcast it to a WebSocket server, and share the session data among all members. Real-time text communication is also facilitated, ensuring seamless interaction across all connected sessions.
+***Built on and WebSocket server hosted on [Chameleon](https://app.imperial.learnchameleon.com).***
 ## Objectives
 - Enables real-time sharing of web sessions among multiple users
 - Facilitates synchronised browsing and interaction on a host’s webpage.
@@ -25,6 +26,8 @@ Coming soon...(Stay tuned!)
 	- Click on "Load unpacked" and select the directory where the extension files are located.
 	- The extension will be installed and activated immediately.
 ## Demo and Screenshots
+***Local WebSocket server deployment will be used in the demos.***
+
 ### Manual Installation of SyncSession
 Check out this demo video for manual installation:
 <div align="center">
