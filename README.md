@@ -6,7 +6,7 @@ Welcome to SyncSession, a powerful Chrome extension designed to enhance online c
 - Facilitates synchronised browsing and interaction on a host’s webpage.
 ## Installation Instructions
 ## From Chrome Web Store
-Coming soon...
+Coming soon...(Stay tuned!)
 ## Manual Installation
 1.	Download the Extension Package
    - Download the ZIP file from here.
