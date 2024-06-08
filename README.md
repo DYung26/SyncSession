@@ -5,8 +5,6 @@ Welcome to SyncSession, a powerful Chrome extension designed to enhance online c
 ## Objectives
 - Enables real-time sharing of web sessions among multiple users
 - Facilitates synchronised browsing and interaction on a host’s webpage.
-## Demo and Screenshots
-## Live Demo
 ## Installation Instructions
 ## From Chrome Web Store
 Coming soon...
@@ -28,10 +26,9 @@ Architecture
 - WebSocket Server: Facilitates real-time data broadcasting.
 - Member Connection: Members retrieve session data and synchronize with the host.
 - Real-time Chat(Text broadcast): Text messages are broadcast across all sessions instantly.
+## Demo and Screenshots
 ## Manual Installation of SyncSession
-
 Check out this demo video for manual installation:
-
 <div align="center">
   <a href="https://www.youtube.com/watch?v=0dHltlL0zK8">
     <img src="https://img.youtube.com/vi/0dHltlL0zK8/0.jpg" alt="Manual Installation" width="500"/>
