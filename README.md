@@ -56,3 +56,14 @@ Check out this demo video on how SyncSession handles text synchronization across
   </a>
 </div>
 SyncSession ensures real-time text synchronization across all connected devices, with the WebSocket server to be hosted on Chameleon.
+
+### Leaving a Session on SyncSession
+Check out this demo video on how to leave a session in SyncSession:
+
+<div align="center">
+  <a href="https://1drv.ms/v/s!Ag9jtTl2cMLljB46Xkb0lkw4asj_">
+    <img src="https://img.youtube.com/vi/LIjq-0DZxYc/0.jpg" alt="Watch the video" width="560" height="315"/>
+  </a>
+</div>
+
+SyncSession ensures seamless disconnection from sessions, whether initiated by the host or the members. Our WebSocket server to be hosted on [Chameleon](https://app.imperial.learnchameleon.com).
