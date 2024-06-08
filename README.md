@@ -41,8 +41,8 @@ Check out this demo video for manual installation:
 ## Session Transfer on SyncSession
 Check out this demo video on how SyncSession transfers a `https://app.imperial.learnchameleon.com/menu` session from one browser to another:
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=0dHltlL0zK8">
-    <img src="https://img.youtube.com/vi/0dHltlL0zK8/0.jpg" alt="Manual Installation" width="500"/>
+  <a href="https://1drv.ms/v/s!Ag9jtTl2cMLljBxf5VCmd2otrQvy">
+    <img src="https://1drv.ms/v/s!Ag9jtTl2cMLljBxf5VCmd2otrQvy" alt="Manual Installation" width="500"/>
   </a>
 </div>
 SyncSession seamlessly transfers sessions from one browser to another. It also works well for cross-device synchronization, as SyncSession's WebSocket server will be hosted on [Chameleon](https://app.imperial.learnchameleon.com).
