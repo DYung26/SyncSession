@@ -44,10 +44,12 @@ Check out this demo video on how SyncSession transfers a `https://app.imperial.l
 SyncSession seamlessly transfers sessions from one browser to another. It also works well for cross-device synchronization, as SyncSession's WebSocket server will be hosted on [Chameleon](https://app.imperial.learnchameleon.com).
 
 ## Text Sync on SyncSession
-Browser1 (Host): Starts a session and begins broadcasting text updates.
-Browser2 (Member): Connects to the session, sends and receives real-time text updates from other members.
+**Browser1 (Host):** Starts a session and begins broadcasting text updates.
+
+**Browser2 (Member):** Connects to the session, sends and receives real-time text updates from other members.
 
 Check out this demo video on how SyncSession handles text synchronization across browsers:
+
 <div align="center">
   <a href="https://www.youtube.com/watch?v=0dHltlL0zK8">
     <img src="https://img.youtube.com/vi/0dHltlL0zK8/0.jpg" alt="Watch the video" width="560" height="315"/>
