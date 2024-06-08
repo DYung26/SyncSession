@@ -33,6 +33,7 @@ Architecture
 Check out this demo video for manual installation:
 
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=0dHltlL0zK8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <a href="https://www.youtube.com/watch?v=0dHltlL0zK8">
+    <img src="https://img.youtube.com/vi/0dHltlL0zK8/0.jpg" alt="Manual Installation" width="500"/>
+  </a>
 </div>
-
