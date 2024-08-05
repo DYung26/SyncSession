@@ -32,7 +32,7 @@ Coming soon...(Stay tuned!)
 Check out this demo video for manual installation:
 <div align="center">
   <a href="https://www.youtube.com/watch?v=0dHltlL0zK8">
-    <img src="https://img.youtube.com/vi/0dHltlL0zK8/0.jpg" alt="Manual Installation" width="500"/>
+    <img src= # "https://img.youtube.com/vi/0dHltlL0zK8/0.jpg" alt="Manual Installation" width="500"/>
   </a>
 </div>
 
@@ -40,7 +40,7 @@ Check out this demo video for manual installation:
 Check out this demo video on how SyncSession transfers a `https://app.imperial.learnchameleon.com/menu` session from one browser to another:
 <div align="center">
   <a href="https://1drv.ms/v/s!Ag9jtTl2cMLljBxf5VCmd2otrQvy">
-    <img src="https://img.youtube.com/vi/ibw97d61PZ4/0.jpg" alt="Session Transfer" width="500"/>
+    <img src= # "https://img.youtube.com/vi/ibw97d61PZ4/0.jpg" alt="Session Transfer" width="500"/>
   </a>
 </div>
 
@@ -55,7 +55,7 @@ Check out this demo video on how SyncSession handles text synchronization across
 
 <div align="center">
   <a href="https://1drv.ms/v/s!Ag9jtTl2cMLljB00JCvudsJSYvvy">
-    <img src="https://img.youtube.com/vi/emU97nE_9VM/0.jpg" alt="Text Sync" width="560" height="315"/>
+    <img src= # "https://img.youtube.com/vi/emU97nE_9VM/0.jpg" alt="Text Sync" width="560" height="315"/>
   </a>
 </div>
 SyncSession ensures real-time text synchronization across all connected devices, with the WebSocket server to be hosted on Chameleon.
@@ -65,7 +65,7 @@ Check out this demo video on how to leave a session in SyncSession:
 
 <div align="center">
   <a href="https://1drv.ms/v/s!Ag9jtTl2cMLljB46Xkb0lkw4asj_">
-    <img src="https://img.youtube.com/vi/LIjq-0DZxYc/0.jpg" alt="Leave Session" width="560" height="315"/>
+    <img src= # "https://img.youtube.com/vi/LIjq-0DZxYc/0.jpg" alt="Leave Session" width="560" height="315"/>
   </a>
 </div>
 
