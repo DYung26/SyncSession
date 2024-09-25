@@ -1,7 +1,7 @@
 # SyncSession
 ## Project Overview
 Welcome to SyncSession, a powerful Chrome extension designed to enhance online collaboration by synchronizing web sessions in real-time. This extension allows users to extract session data from a host's webpage, broadcast it to a WebSocket server, and share the session data among all members. Real-time text communication is also facilitated, ensuring seamless interaction across all connected sessions.
-***Built on and WebSocket server hosted on [Chameleon](https://app.imperial.learnchameleon.com).***
+***Built on and WebSocket server hosted on [BuildQL (formerly Chameleon)](https://app.imperial.learnchameleon.com).***
 ## Objectives
 - Enables real-time sharing of web sessions among multiple users
 - Facilitates synchronised browsing and interaction on a host’s webpage.
@@ -44,7 +44,7 @@ Check out this demo video on how SyncSession transfers a `https://app.imperial.l
   </a>
 </div>
 
-SyncSession seamlessly transfers sessions from one browser to another. It also works well for cross-device synchronization, as SyncSession's WebSocket server will be hosted on [Chameleon](https://app.imperial.learnchameleon.com).
+SyncSession seamlessly transfers sessions from one browser to another. It also works well for cross-device synchronization, as SyncSession's WebSocket server will be hosted on [BuildQL (formerly Chameleon)](https://app.imperial.learnchameleon.com).
 
 ### Text Sync on SyncSession
 **Browser1 (Host):** Starts a session and begins broadcasting text updates.
@@ -69,4 +69,4 @@ Check out this demo video on how to leave a session in SyncSession:
   </a>
 </div>
 
-SyncSession ensures seamless disconnection from sessions, whether initiated by the host or the members. Our WebSocket server to be hosted on [Chameleon](https://app.imperial.learnchameleon.com).
+SyncSession ensures seamless disconnection from sessions, whether initiated by the host or the members. Our WebSocket server to be hosted on [BuildQL (formerly Chameleon)](https://app.imperial.learnchameleon.com).
